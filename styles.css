@@ -215,3 +215,12 @@ h1{
     font-weight: bold;
 }
 
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background: #1F2937;
+    color: #F9FAF8;
+    margin-top: auto;
+}
